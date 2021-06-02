@@ -1,3 +1,11 @@
+# Netflix Project 
+Learning ReactJS and developing along with crossroads team. 
+
+You can view the current status of the project at https://netflix-app-reactjs.netlify.app/
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
